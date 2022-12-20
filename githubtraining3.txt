@@ -1,0 +1,12 @@
+
+class Addition
+{
+	public static void main(String args[])
+	{
+		int a,b;
+		Scanner s = new Scanner(System.in);
+		a=nextInt();
+		b=nextInt();
+		System.out.println("Addition of two numbers :"+(a+b));
+	}
+}
